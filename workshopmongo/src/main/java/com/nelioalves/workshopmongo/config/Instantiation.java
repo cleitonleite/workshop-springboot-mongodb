@@ -6,7 +6,6 @@ import java.util.TimeZone;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.boot.autoconfigure.AutoConfigurationExcludeFilter;
 import org.springframework.context.annotation.Configuration;
 
 import com.nelioalves.workshopmongo.domain.Post;
