@@ -1,0 +1,8 @@
+package com.nelioalves.workshopmongo.dto;
+
+public class UserDTO {
+
+	private String id;
+	private String nome;
+	private String email;
+}
